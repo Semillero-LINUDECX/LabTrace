@@ -1,4 +1,3 @@
-¡Excelente elección con **PNPM**\! Es mucho más eficiente con el espacio en disco y estricto con las dependencias, lo que evita errores "fantasma" que ocurren en NPM.
 # 🔬 LabTrace
 
 **Sistema de Gestión de Inventario y Trazabilidad para Laboratorios de Investigación.**
@@ -21,7 +20,7 @@ LabTrace es una solución Open Source diseñada para resolver la falta de trazab
 2. Instalar dependencias con PNPM (importante):
    ```bash
    pnpm install
-```
+   ```
 
 3.  Configurar variables de entorno en `.env.local`.
 4.  Correr servidor de desarrollo:
